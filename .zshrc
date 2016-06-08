@@ -84,4 +84,4 @@ export ARCHFLAGS="-arch x86_64"
 alias zshconfig="atom ~/.zshrc"
 alias ohmyzsh="atom ~/.oh-my-zsh"
 alias dex2jar='sh /usr/local/bin/dex2jar/d2j-dex2jar.sh'
-source /Users/jason/zsh-syntax-highlighting/zsh-synta-highlighting.zsh
+source /Users/jason/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
